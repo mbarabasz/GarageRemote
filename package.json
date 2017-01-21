@@ -1,0 +1,28 @@
+{
+    "author": "marcin.barabasz@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "garage",
+    "pebble": {
+        "displayName": "garage",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/action_icon_minus.png",
+                    "name": "IMAGE_ACTION_ICON_MINUS",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "uuid": "208d0222-b38d-44a3-993b-4c09b09527ba",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
